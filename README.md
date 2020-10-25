@@ -1,5 +1,5 @@
 # XSynapse_Fun
-XSynapse_Fun is a synapse x cracked version, XSynapse_Fun automatically update if a new synapse version has been released.
+XSynapse_Fun is a synapse x cracked version, XSynapse_Fun automatically update if a new synapse x version has been released.
 
 # Note
 
